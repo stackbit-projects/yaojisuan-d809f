@@ -1,5 +1,5 @@
 ---
-title: Home
+title: '要计算 '
 sections:
   - section_id: hero
     type: section_hero
