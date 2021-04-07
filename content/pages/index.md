@@ -103,7 +103,7 @@ sections:
     background: gray
     title: Latest Posts
 seo:
-  title: 要计算 - 开源计算器 | 税费计算器 | 在线计算器
+  title: 要计算 - 开源计算器 | 税费计算器 | 在线计算器 | 贷款计算器
   description: The preview of the Azimuth theme
   extra:
     - name: 'og:type'
