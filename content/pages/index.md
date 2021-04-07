@@ -104,7 +104,7 @@ sections:
     title: Latest Posts
 seo:
   title: 要计算 - 开源计算器 | 税费计算器 | 在线计算器 | 贷款计算器
-  description: The preview of the Azimuth theme
+  description: 提供
   extra:
     - name: 'og:type'
       value: website
