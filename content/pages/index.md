@@ -104,7 +104,7 @@ sections:
     title: Latest Posts
 seo:
   title: 要计算 - 开源计算器 | 税费计算器 | 在线计算器 | 贷款计算器
-  description: 提供
+  description: 开源的计算器，可动态配置计算公式，提供API
   extra:
     - name: 'og:type'
       value: website
